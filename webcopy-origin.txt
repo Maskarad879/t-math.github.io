@@ -1,0 +1,344 @@
+Uri: http://spacemath.xyz/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/algoritm-izvlecheniya-kvadratnogo-kornya/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\algoritm-izvlecheniya-kvadratnogo-kornya\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/bukvennye-vyrazheniya/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\bukvennye-vyrazheniya\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/chisla/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\chisla\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/chto_takoe_mnojestvo/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\chto_takoe_mnojestvo\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/comments/feed/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://spacemath.xyz/deistviya_s_drobyami/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\deistviya_s_drobyami\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/delenie-mnogochlenov/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\delenie-mnogochlenov\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/delenie/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\delenie\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/deliteli_i_kratnie/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\deliteli_i_kratnie\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/desyatichnie_drobi/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\desyatichnie_drobi\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/deystviya_s_desyatichnimi_drobyami/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\deystviya_s_desyatichnimi_drobyami\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/dopolnitelnye-svedeniya-o-drobyah/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\dopolnitelnye-svedeniya-o-drobyah\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/drobi/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\drobi\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/edinici_izmereniya/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\edinici_izmereniya\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/elementy-statistiki/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\elementy-statistiki\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/favicon.ico
+File Name: C:\Downloaded Web Sites\spacemath.xyz\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://spacemath.xyz/feed/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://spacemath.xyz/formuly-sokrashhennogo-umnozheniya/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\formuly-sokrashhennogo-umnozheniya\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/kvadratnoe-uravnenie-s-chyotnym-vtorym-koeffitsientom/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\kvadratnoe-uravnenie-s-chyotnym-vtorym-koeffitsientom\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/kvadratnoe-uravnenie/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\kvadratnoe-uravnenie\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/kvadratnyj-koren/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\kvadratnyj-koren\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/mnogochleny/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\mnogochleny\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/modul_chisla/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\modul_chisla\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/nod_i_nok/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\nod_i_nok\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/obshhie-svedeniya-o-neravenstvah/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\obshhie-svedeniya-o-neravenstvah\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/obshhie-svedeniya-ob-uravneniyah/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\obshhie-svedeniya-ob-uravneniyah\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/odnochleny/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\odnochleny\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/okruglenie_chisel/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\okruglenie_chisel\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/operatsii-nad-mnozhestvami/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\operatsii-nad-mnozhestvami\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/osnovnie_operacii/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\osnovnie_operacii\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/otricatelnie_chisla/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\otricatelnie_chisla\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/perevod_edinic/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\perevod_edinic\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/perimetr-ploshhad-i-obyom/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\perimetr-ploshhad-i-obyom\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/periodicheskie_drobi/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\periodicheskie_drobi\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/poryadok_deistviy/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\poryadok_deistviy\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/preobrazovanie_virajeniy/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\preobrazovanie_virajeniy\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/primenenie_desyatichnix_drobey/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\primenenie_desyatichnix_drobey\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/primenenie_drobey/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\primenenie_drobey\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/procenti/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\procenti\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/proizvoditelnost/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\proizvoditelnost\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/proporciya/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\proporciya\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/prostejshie-zadachi-po-matematike/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\prostejshie-zadachi-po-matematike\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/pryamaya_proporcionalnost/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\pryamaya_proporcionalnost\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/raskrytie-skobok/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\raskrytie-skobok\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/rasstoyanie_scorost_vremya/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\rasstoyanie_scorost_vremya\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/ratsionalnye-chisla/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\ratsionalnye-chisla\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/razlozhenie-kvadratnogo-tryohchlena-na-mnozhiteli/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\razlozhenie-kvadratnogo-tryohchlena-na-mnozhiteli\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/razlozhenie-mnogochlena-na-mnozhiteli/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\razlozhenie-mnogochlena-na-mnozhiteli\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/razryadi_dlya_nachinayushix/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\razryadi_dlya_nachinayushix\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/reshenie-zadach-s-pomoshhyu-proportsii/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\reshenie-zadach-s-pomoshhyu-proportsii\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/reshenie-zadach-s-pomoshhyu-uravnenij/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\reshenie-zadach-s-pomoshhyu-uravnenij\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/sistemy-linejnyh-neravenstv-s-odnoj-peremennoj/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\sistemy-linejnyh-neravenstv-s-odnoj-peremennoj\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/sistemy-linejnyh-uravnenij/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\sistemy-linejnyh-uravnenij\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/slozhenie_i_vychitanie-racionalnyh_chisel/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\slozhenie_i_vychitanie-racionalnyh_chisel\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/slozhenie_i_vychitanie_celyh_chisel/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\slozhenie_i_vychitanie_celyh_chisel\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/smeshanie_chisla/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\smeshanie_chisla\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/sootnosheniya/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\sootnosheniya\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/sravnenie-ratsionalnyh-chisel/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\sravnenie-ratsionalnyh-chisel\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/sravnenie_drobey/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\sravnenie_drobey\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/stepen-s-naturalnym-pokazatelem/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\stepen-s-naturalnym-pokazatelem\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/stepen-s-tselym-pokazatelem/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\stepen-s-tselym-pokazatelem\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/teorema-vieta/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\teorema-vieta\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/tozhdestvennye-preobrazovaniya-mnogochlenov/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\tozhdestvennye-preobrazovaniya-mnogochlenov\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/umnojenie/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\umnojenie\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/umnozhenie-i-delenie-ratsionalnyh-chisel/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\umnozhenie-i-delenie-ratsionalnyh-chisel\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/umnozhenie-i-delenie-tselyh-chisel/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\umnozhenie-i-delenie-tselyh-chisel\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/virajeniya/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\virajeniya\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/vynesenie-obshhego-mnozhitelya-za-skobki/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\vynesenie-obshhego-mnozhitelya-za-skobki\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/wp-content/plugins/jquery-smooth-scroll/css/style.css?ver=6.0
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-content\plugins\jquery-smooth-scroll\css\style.css
+Content Type: text/css
+
+Uri: http://spacemath.xyz/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-content\themes\twentyfifteen\genericons\genericons.css
+Content Type: text/css
+
+Uri: http://spacemath.xyz/wp-content/themes/twentyfifteen/style.css?ver=6.0
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-content\themes\twentyfifteen\style.css
+Content Type: text/css
+
+Uri: http://spacemath.xyz/wp-content/uploads/2016/12/favicon
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-content\uploads\2016\12\favicon
+Content Type: image/png
+
+Uri: http://spacemath.xyz/wp-content/uploads/2016/12/favicon-150x150.
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-content\uploads\2016\12\favicon-150x150
+Content Type: image/png
+
+Uri: http://spacemath.xyz/wp-includes/css/dist/block-library/style.min.css?ver=6.0
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://spacemath.xyz/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://spacemath.xyz/wp-json/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://spacemath.xyz/wp-json/oembed/1.0/embed?url=http:%2F%2Fspacemath.xyz%2F
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://spacemath.xyz/wp-json/oembed/1.0/embed?url=http:%2F%2Fspacemath.xyz%2F&format=xml
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://spacemath.xyz/wp-json/wp/v2/pages/34
+File Name: C:\Downloaded Web Sites\spacemath.xyz\wp-json\wp\v2\pages\34
+Content Type: application/json
+
+Uri: http://spacemath.xyz/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\spacemath.xyz\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://spacemath.xyz/zadachi-na-drobi/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\zadachi-na-drobi\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/zadachi-na-dvizhenie/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\zadachi-na-dvizhenie\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/zadachi-na-protsenty/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\zadachi-na-protsenty\index.htm
+Content Type: text/html
+
+Uri: http://spacemath.xyz/zakoni_matematiki/
+File Name: C:\Downloaded Web Sites\spacemath.xyz\zakoni_matematiki\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Noto+Sans:400italic%2C700italic%2C400%2C700|Noto+Serif:400italic%2C700italic%2C400%2C700|Inconsolata:400%2C700&subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext
+File Name: C:\Downloaded Web Sites\spacemath.xyz\css
+Content Type: text/css
+
